@@ -1,6 +1,6 @@
 # City Issue Reporter (CIR) - Hệ thống phản ứng sự cố đô thị thông minh
 
-> Đồ án môn học: Lập trình thiết bị di động  
+> Đồ án: Lập trình thiết bị di động  
 > Giảng viên hướng dẫn: **TS. Nguyễn Thị Bích Ngân**  
 > Sinh viên thực hiện (Đồ án cá nhân): **Võ Quyền Anh**  
 > Phát triển bằng: **Flutter** & **Firebase**
